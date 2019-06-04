@@ -1,0 +1,6 @@
+[submodule "ext/clement"]
+	path = ext/clement
+	url = https://github.com/clenemt/docdash.git
+[submodule "ext/arsdk-xml"]
+	path = ext/arsdk-xml
+	url = https://github.com/Parrot-Developers/arsdk-xml.git
